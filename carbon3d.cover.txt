@@ -1,0 +1,18 @@
+Dear Hiring Committee,
+
+Hope you all are doing well in these difficult times. I am writing to apply for the Software Engineer -- Research Scientist Position at Carbon3D, which was referred to me by Dr Hardik Kabaria. Currently, I am a Computer Science and Engineering student in India, with an expected completion date of July 2021. Outside curriculum, I am an incoming Summer Research Fellow at MIT Geometric Data Processing Group (July 2021 - August 2021). My primary research interest is in Geometry and Topology in Machine Learning. I believe my engineering training and experience in open source, coupled with my research experiences have provided me with the software engineering, research and collaboration skills needed to succeed in this position.
+
+My first exposure to geometric and topological machine learning came during my research internship with Dr Shahrouz Ryan Alimo of NASA Jet Propulsion Laboratory while working on scene reconstruction using RGBD SLAM at his startup, Opaltech.ai. Post internship, while exploring various applications of TDA, I garnered interest in revisiting disconnected manifold learning in Generative Adversarial Neural Networks from a Topological Perspective. With mentorship from Dr Bastian Rieck (ETH Zurich), my colleague (who was also an undergraduate) and I, spent Fall 2020 studying this problem using Persistent Homology. More formally, we study the effect of topological regularization of GAN priors, while using a Lipschitz generator to a model isomorphism between prior and posterior spaces. This work got accepted for a spotlight presentation at Topological Data Analysis and Beyond Workshop, at NeurIPS 2020.
+
+Based on my discussions with Dr Kabaria, I believe the position being offered would be highly valued by my experiences in Discrete Differential Geometry, Topology and Deep Learning. My ongoing Bachelors' Thesis "Discrete Non-Euclidean Convolutions". My work involves studying a generalized version of graph diffusion on homogeneous k-complexes. The Hodge Laplacian of an oriented simplicial complex doesn't model random walks, making it difficult to define diffusion. Hence in this project, I am exploring methods to define a Markovian Random Walk on the oriented k-chain, and studying convolution on the State -- Transition Matrix. This would allow in increased expressivity of Simplicial Convolutional Neural Networks. I believe, the insights and experience I obtain from this work are extremely relevant to the projects Carbon3D previously has shown interest in.
+
+Similarly, the discussion also made me realize that knowing about implicit representations would be a valuable addition to this position. I was fortunate enough to have had some exposure in this area of research while pursuing a side project -- Topology consistent mesh generation from Images. My initial approach involved modifying NeuralMeshFlow (Gupta et.al. 2020), to introduce "holes" in the genus-zero approximation by leveraging a combination of mesh editing and persistent homology. However, further study revealed the need for a differentiable mesh editing framework, something which can be achieved only by an implicit representation of the geometry. Although this project was archived, I believe the experiences I gained would find usage in the kind of work this position entails.
+
+I have always enjoyed research and creative problem-solving. I believe, this passion of mine, coupled with my engineering experiences will be of value in this role. If given the opportunity, I am positive I would be a strong asset to the team.
+
+Hoping to hear from you soon and have further discussions on my prospects at Carbon3D.
+
+Thank you for your time and consideration.
+
+Adrish Dey
+(https://captainpool.me)
