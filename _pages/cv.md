@@ -1,8 +1,7 @@
 ---
-layout: cv
-permalink: /cv/
-title: cv
+layout: page
+permalink: ./assets/pdf/Research%20Resume.pdf
+title: CV
+description: My Curriculum Vitae
 nav: true
-nav_order: 4
-cv_pdf: example_pdf.pdf
 ---
