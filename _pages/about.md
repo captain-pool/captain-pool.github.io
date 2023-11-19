@@ -28,4 +28,4 @@ Outside of work, I enjoy Biking, exploring new places around the city, experimen
 I am broadly interested in studying problems which has a geometric/topological flavor to it. My current research focuses on using ML to learn geometric operators on Point Clouds to use them for downstream geometry processing tasks. Recently I came across [cats.for.ai](cats.for.ai), and since then I am also exploring category theory $$\cap$$ ML in my free time.
 
 
-You can find CV [Here](./assets/pdf/Research%20Resume.pdf). I'm always looking for collaborators working in related fields. Please don't hesitiate to reach out @[adrishd@bu.edu](mailto:adrish@bu.edu).
+You can find CV [Here](./assets/pdf/Research%20Resume.pdf). I'm always looking for collaborators working in related fields. Please don't hesitiate to reach out @[adrishd@bu.edu](mailto:adrishd@bu.edu).
