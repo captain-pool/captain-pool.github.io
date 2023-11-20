@@ -7,7 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p> Office 825 </p>
+    <p>Office 825</p>
     <p>BU Center of Computing & Data Sciences (CDS)</p>
     <p>665, Commonwealth Ave</p>
     <p>Boston University</p>
@@ -16,9 +16,10 @@ profile:
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+
 ---
 
-Howdy! I'm a CS PhD student at Boston University studying the application of Geometry and Topology in ML and Graphics. I am advised by [Prof. Ed Chien](https://cs-people.bu.edu/edchien).
+I'm a CS PhD student at Boston University studying the application of Geometry and Topology in ML and Graphics. I am advised by [Prof. Ed Chien](https://cs-people.bu.edu/edchien).
 
 Outside of work, I enjoy biking, exploring the city, experimenting cooking new dishes, and flying airplanes in Flight Simulators (A moonshot goal in my life is to get a flying license someday). Recently, I have also been exploring bouldering.
 
