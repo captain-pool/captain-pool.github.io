@@ -40,9 +40,6 @@ GEM
     citeproc-ruby (1.1.14)
       citeproc (~> 1.0, >= 1.0.9)
       csl (~> 1.6)
-    classifier-reborn (2.3.0)
-      fast-stemmer (~> 1.0)
-      matrix (~> 0.4)
     colorator (1.1.0)
     concurrent-ruby (1.3.5)
     connection_pool (2.5.0)
@@ -275,7 +272,6 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
-  classifier-reborn
   css_parser
   feedjira
   httparty
