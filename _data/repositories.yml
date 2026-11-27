@@ -1,8 +1,0 @@
-github_users:
-  - captain-pool
-github_repos:
-  - geomstats/geomstats
-  - tensorflow/tensorflow
-  - tensorflow/hub
-  - tensorflow/datasets
-  - captain-pool/GSOC
