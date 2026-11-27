@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: captainpool.me//sitemap.xml
+Sitemap: https://captainpool.me/sitemap.xml
